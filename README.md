@@ -1,5 +1,11 @@
 # Vite + Vue3 + Typescript + Pinia + Vueuse
 
+# mock
+# eslint
+# prettier
+# cz
+# element-plus
+
 # 1. 初始化项目
 
 ## 按步骤提示初始化：
